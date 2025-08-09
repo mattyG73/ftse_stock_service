@@ -1,0 +1,1 @@
+# ftse_stock_service
